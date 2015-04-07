@@ -34,12 +34,14 @@ Download link: http://sourceforge.net/projects/tinyhttpd/
 -------------------
 A light-weighted JSON encoder/decoder in C. About 500 lines of C. Function is not so strong, but small and fast, easy to understand, well maintained. 
 
+A Github site: https://github.com/kbranigan/cJSON
 Download link: http://sourceforge.net/projects/cjson/
 
 <a href="https://github.com/chenx/Collections/tree/master/C/cmockery-0.1.2">CMockery</a>
 -------------------------
 A light-weighted C unit test framework. Independ from other open source package. Non-invasive for the code to be tested. Less than 3000 lines of C. Avoid complex compiler feature, so compatible with older versions of compilers. Does not require tested code to conform to C99 standard, thus useful to embed applications.
 
+A Github site: https://github.com/lpabon/cmockery2
 Download link: http://code.google.com/p/cmockery/downloads/list
 
 Libev
@@ -52,12 +54,14 @@ Memcached
 ---------------
 Memcached is a highly efficient distributed memory cache system. It is used in dynamic web applications to alleviate database load. It is based on key-value hashmap. Version 1.4.7 has about 10,000 lines of code in C.
 
+Github site: https://github.com/memcached
 Download link: http://memcached.org/
 
 Lua
 ----------
 Lua is written in 100% ANSI C. Version 5.1.4 has about 15,000 lines of code, or about 10,000 lines without blank and comment lines.
 
+Github site: https://github.com/LuaDist/lua
 Download link: http://www.lua.org/
 
 SQLite
@@ -65,18 +69,21 @@ SQLite
 
 SQLite is an open source embed relational database. It is self-contained, requries zero setting, supports transactions. Highly portable, easy to use, compact, effecient, reliable. It has about 25,000 lines of code.
 
+A Github site: https://github.com/smparkes/sqlite
 Download link: http://www.sqlite.org
 
 UNIX v6
 -----------
 The kernel of UNIX v6 has about 10,000 lines of code, including device drivers. In comparison, recent Linux kernel has more than 10 million lines of code. 
 
+A Github site: https://github.com/hephaex/unix-v6
 Download link: http://minnie.tuhs.org/cgi-bin/utree.pl?file=V6
 
 NetBSD
 ---------------------
 NetBSD is a free, highly portable UNIX-like operating system. It claims portable to the most number of systems, from 64bit alpha to hand-held/mobile and embed devices. The NetBSD project slogan is: "Of course it runs NetBSD". 
 
+A Github site: https://github.com/ebijun/NetBSD
 Download link: http://www.netbsd.org/
 
 
