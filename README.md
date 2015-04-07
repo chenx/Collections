@@ -6,7 +6,7 @@ Assembly
 
 <a href="https://github.com/chenx/Collections/tree/master/Assembly/bootchess">BootChess</a>
 -------------
-The smallest chess game (2015, by Olivier Poudade), in 487 bytes, uses 512 bytes of memory, breaks 32-year-old record of the 1K ZX Chess (1982, by David Horne, Sinclair ZX81, 672 bytes, uses 1KB memory). Capable of running on Windows, Linux, OS X, and BSD due to the way in which it was implemented. 
+The smallest chess game (2015, by Olivier Poudade), in 487 bytes, uses 512 bytes of memory, breaks 32-year-old record of the 1K ZX Chess (1982, by David Horne, Sinclair ZX81, 672 bytes, uses 1KB memory). Capable of running on Windows, Linux, OS X, and BSD. 
 
 More readings:  
 [1] http://www.geek.com/games/computer-chess-created-in-487-bytes-breaks-32-year-old-record-1614445/  
