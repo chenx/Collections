@@ -1,5 +1,5 @@
 # Collections
-Contains code collected from the web, for study and research purpose.
+Contains interesting code collected from the web.
 
 C
 =========
