@@ -91,6 +91,6 @@ Download link: http://www.netbsd.org/
 References:
 =============
 
-<ol>
+<ul>
 <li><a href="http://my.oschina.net/zhoukuo/blog/335788#OSC_h3_2">最值得阅读学习的 10 个 C 语言开源项目代码</a></li>
-</ol>
+</ul>
