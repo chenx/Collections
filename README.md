@@ -42,3 +42,48 @@ A light-weighted C unit test framework. Independ from other open source package.
 
 Download link: http://code.google.com/p/cmockery/downloads/list
 
+Libev
+----------
+Libev is an open source event-driven programmng library, based on epoll, kqueue etc. It is highly effecient, and combines IO event, timer and signal into the framework of event processing. It is based on Reactor pattern, and is a good resource to learn about event-driven programming. Version 4.15 has about 8000 lines of C.
+
+Download link: http://software.schmorp.de/pkg/libev.html
+
+Memcached
+---------------
+Memcached is a highly efficient distributed memory cache system. It is used in dynamic web applications to alleviate database load. It is based on key-value hashmap. Version 1.4.7 has about 10,000 lines of code in C.
+
+Download link: http://memcached.org/
+
+Lua
+----------
+Lua is written in 100% ANSI C. Version 5.1.4 has about 15,000 lines of code, or about 10,000 lines without blank and comment lines.
+
+Download link: http://www.lua.org/
+
+SQLite
+------------
+
+SQLite is an open source embed relational database. It is self-contained, requries zero setting, supports transactions. Highly portable, easy to use, compact, effecient, reliable. It has about 25,000 lines of code.
+
+Download link: http://www.sqlite.org
+
+UNIX v6
+-----------
+The kernel of UNIX v6 has about 10,000 lines of code, including device drivers. In comparison, recent Linux kernel has more than 10 million lines of code. 
+
+Download link: http://minnie.tuhs.org/cgi-bin/utree.pl?file=V6
+
+NetBSD
+---------------------
+NetBSD is a free, highly portable UNIX-like operating system. It claims portable to the most number of systems, from 64bit alpha to hand-held/mobile and embed devices. The NetBSD project slogan is: "Of course it runs NetBSD". 
+
+Download link: http://www.netbsd.org/
+
+
+
+References:
+=============
+
+<ol>
+<li><a href="http://my.oschina.net/zhoukuo/blog/335788#OSC_h3_2">最值得阅读学习的 10 个 C 语言开源项目代码</a></li>
+</ol>
