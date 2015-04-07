@@ -30,6 +30,13 @@ A super light-weighted Http Server. Only 502 lines of C (including comments, and
 
 Download link: http://sourceforge.net/projects/tinyhttpd/
 
+Nginx
+-----------
+Nginx ("Engine X") is a HTTP and reverse-proxy server, and also a IMAP/POP3/SMTP proxy server. It was written by Igor Sysoev since 2009 for Rambler.ru, which was the 2nd most popular site in Russia. It is stable, has a rich feature set, and low resource consumption. Its source code is clean and well structured, and is worth of study.
+
+A Github site: https://github.com/nginx/nginx  
+Download link: http://nginx.org/en/download.html
+
 <a href="https://github.com/chenx/Collections/tree/master/C/cJSON">cJSON</a>
 -------------------
 A light-weighted JSON encoder/decoder in C. About 500 lines of C. Function is not so strong, but small and fast, easy to understand, well maintained. 
@@ -56,6 +63,12 @@ Memcached is a highly efficient distributed memory cache system. It is used in d
 
 Github site: https://github.com/memcached  
 Download link: http://memcached.org/
+
+Redis
+------------------
+Redis is a memory cache system similar to Memcached, written in about 45,000 lines of ANSI C. Its mostly single threaded, and does not rely on other libraries.
+
+Download link: http://redis.io
 
 Lua
 ----------
