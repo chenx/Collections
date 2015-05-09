@@ -102,9 +102,9 @@ Download link: http://www.netbsd.org/
 Emscripten
 --------------
 Emscripten: An LLVM-to-JavaScript Compiler  
-Project main site: http://kripken.github.io/emscripten-site/
-Wiki site: https://github.com/kripken/emscripten/wiki
-Github project: https://github.com/kripken/emscripten
+Project main site: http://kripken.github.io/emscripten-site/  
+Wiki site: https://github.com/kripken/emscripten/wiki  
+Github project: https://github.com/kripken/emscripten  
 
 
 JavaScript
