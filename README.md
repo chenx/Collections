@@ -99,7 +99,10 @@ NetBSD is a free, highly portable UNIX-like operating system. It claims portable
 A Github site: https://github.com/ebijun/NetBSD  
 Download link: http://www.netbsd.org/
 
-
+Emscripten
+--------------
+Emscripten: An LLVM-to-JavaScript Compiler  
+https://github.com/kripken/emscripten
 
 References:
 =============
