@@ -112,7 +112,7 @@ JavaScript
 
 asm.js
 ------------
-An extraordinarily optimizable, low-level subset of JavaScript.
+An extraordinarily optimizable, low-level subset of JavaScript.   
 http://asmjs.org/
 
 
