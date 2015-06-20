@@ -117,8 +117,8 @@ http://asmjs.org/
 
 node
 --------------
-evented I/O for v8 javascript http://nodejs.org/
-https://github.com/joyent/node
+evented I/O for v8 javascript http://nodejs.org/  
+https://github.com/joyent/node  
 
 
 References:
