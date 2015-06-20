@@ -115,6 +115,11 @@ asm.js
 An extraordinarily optimizable, low-level subset of JavaScript.   
 http://asmjs.org/
 
+node
+--------------
+evented I/O for v8 javascript http://nodejs.org/
+https://github.com/joyent/node
+
 
 References:
 =============
