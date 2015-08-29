@@ -120,6 +120,12 @@ node
 evented I/O for v8 javascript http://nodejs.org/  
 https://github.com/joyent/node  
 
+three.js
+----------
+JavaScript 3D library.  
+http://threejs.org/  
+https://github.com/mrdoob/three.js/  
+
 
 References:
 =============
